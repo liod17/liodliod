@@ -1,0 +1,19 @@
+body{
+    color:gainsboro;
+    background-color:rgb(15, 14, 14);
+    max-width: 900px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:crimson
+}
+h2{
+    color:rgb(130, 52, 182)
+}
+
+li{
+    color:rgb(238, 192, 202)
+}
